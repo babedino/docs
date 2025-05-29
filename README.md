@@ -3,6 +3,9 @@
 This repository contains official security documentation for the BABEDINO Token.
 
 - [📘 Whitepaper: Lovely Baby Dino (PDF)](https://github.com/babedino/docs/blob/main/Whitepaper_Lovely_Baby_Dino_BABEDINO.pdf)
+- [🧭 Token Distribution & Roadmap (PDF)](https://github.com/babedino/docs/blob/main/Token_Distribution_and_Roadmap.pdf)
+
+
 
 ✅ Ownership renounced  
 ✅ Whitelist function permanently disabled  
