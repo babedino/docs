@@ -27,7 +27,7 @@ This repository contains official security-related documentation for the BABEDIN
 
 ## ✅ Verified Security Flags
 
-- Ownership renounced  
-- Whitelist function permanently disabled  
-- Verified by TokenSniffer, Honeypot.is, GoPlus, and DeFiScanner  
+- ✅ Ownership renounced  
+- ✅ Whitelist function permanently disabled  
+- ✅ Verified by TokenSniffer, Honeypot.is, GoPlus, and DeFiScanner etc.  
 - 🔗 Token Contract: [0x1CE070f548AC67825e2AAd4368Af9A78ce0C6080](https://bscscan.com/token/0x1CE070f548AC67825e2AAd4368Af9A78ce0C6080)
