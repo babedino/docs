@@ -35,8 +35,10 @@ This note explains why BABEDINO shows a "Whitelist" flag on scanners even though
 
 📄 [Download Post-Mortem Note (PDF)](https://github.com/babedino/docs/blob/main/Post-Mortem%20Note.pdf)
 
-### 📝 Token Scanner Platforms Issue Report ### 
+
+### 📝 Token Scanner Platforms Issue Report ###
 - [📄 BABEDINO_Token_Scanner_Issues_Report.pdf](https://github.com/babedino/docs/raw/main/BABEDINO_Token_Scanner_Issues_Report.pdf)
+
 
 ## 📚 Other Core Documents ### 
 
