@@ -30,6 +30,11 @@ This repository contains official security-related documentation for the BABEDIN
     The result will return: 
 ✅ This confirms that **no address is whitelisted** and whitelist functionality is inactive and permanently disabled due to renounced ownership.
 
+### 📝 Post-Mortem Note on Whitelist Flag
+This note explains why BABEDINO shows a "Whitelist" flag on scanners even though the logic is permanently disabled.
+
+📄 [Download Post-Mortem Note (PDF)](https://github.com/babedino/docs/blob/main/Post-Mortem%20Note.pdf)
+
 
 ## 📚 Other Core Documents
 
