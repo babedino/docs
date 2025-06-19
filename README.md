@@ -19,15 +19,19 @@ This repository contains official security-related documentation for the BABEDIN
 - 📄 [View Document (PDF)](https://github.com/babedino/docs/blob/main/BABEDINO_Token_Security_Statement.pdf)
 - 📥 [Download Direct (PDF)](https://raw.githubusercontent.com/babedino/docs/main/BABEDINO_Token_Security_Statement.pdf)
 
-  
-  ##  WHITELISTED FUNCTION ON SMART CONTRACT "FALSE" NOT FUNCTIONAL ### 
-  🔎 You can verify that the `isWhitelisted(address)` function is inactive by visiting the 
-    [BscScan Read Contract tab](https://bscscan.com/address/0x1CE070f548AC67825e2AAd4368Af9A78ce0C6080#readContract).
+## 🔒 BABEDINO Lock & Unlock Schedule ###
 
-    Please input the address:0x0000000000000000000000000000000000000000
-    into the `isWhitelisted` field and click **Query**.
+- 📄 [View Document (PDF)](https://github.com/babedino/docs/blob/main/BABEDINO_Lock_Unlock_Schedule.pdf)
+- 📥 [Download Direct (PDF)](https://raw.githubusercontent.com/babedino/docs/main/BABEDINO_Lock_Unlock_Schedule.pdf)
 
-    The result will return: 
+##  WHITELISTED FUNCTION ON SMART CONTRACT "FALSE" NOT FUNCTIONAL ### 
+🔎 You can verify that the `isWhitelisted(address)` function is inactive by visiting the 
+[BscScan Read Contract tab](https://bscscan.com/address/0x1CE070f548AC67825e2AAd4368Af9A78ce0C6080#readContract).
+
+Please input the address: `0x0000000000000000000000000000000000000000`  
+into the `isWhitelisted` field and click **Query**.
+
+The result will return:  
 ✅ This confirms that **no address is whitelisted** and whitelist functionality is inactive and permanently disabled due to renounced ownership.
 
 ### 📝 Post-Mortem Note on Whitelist Flag ### 
@@ -35,10 +39,8 @@ This note explains why BABEDINO shows a "Whitelist" flag on scanners even though
 
 📄 [Download Post-Mortem Note (PDF)](https://github.com/babedino/docs/blob/main/Post-Mortem%20Note.pdf)
 
-
 ### 📝 Token Scanner Platforms Issue Report ###
 - [📄 BABEDINO_Token_Scanner_Issues_Report.pdf](https://github.com/babedino/docs/raw/main/BABEDINO_Token_Scanner_Issues_Report.pdf)
-
 
 ## 📚 Other Core Documents ### 
 
